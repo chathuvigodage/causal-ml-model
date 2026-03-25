@@ -1,0 +1,16 @@
+Variable_Name,Variable_Type,Desc
+InterestRate,dosage,Treatment (interest rate)
+LoanApproved,target,Loan approval outcome
+LoanAmount,float,Loan characteristic
+LoanDuration,float,Loan characteristic
+TotalDebtToIncomeRatio,float,Loan characteristic
+CreditScore,float,Loan characteristic
+NumberOfOpenCreditLines,int,Loan characteristic
+AnnualIncome,float,Financial background
+SavingsAccountBalance,float,Financial background
+TotalLiabilities,float,Financial background
+Age,int,Socioeconomic background
+EducationLevel,cat,Socioeconomic background
+MaritalStatus,cat,Socioeconomic background
+EmploymentStatus,cat,Socioeconomic background
+PaymentHistory,float,Bank relationship
